@@ -35,7 +35,7 @@ npm run dev
 
 🌐 Live Demo
 
-(Add your deployed link here if available)
+finance-dashboard-78wsnnepz-bhargavi1.vercel.app
 
 📌 Future Improvements
 Add charts (bar/pie charts for better insights)
